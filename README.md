@@ -104,4 +104,26 @@ npm run dev
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](frontend/public/screenshots/homepage.png)
+
+### 🔐 Login Page
+![Login Page](frontend/public/screenshots/loginpage.png)
+
+### 📝 Signup Page
+![Product Page](frontend/public/screenshots/signuppage.png)
+
+### 🛠️ Admin Page
+![Product Page](frontend/public/screenshots/adminpage.png)
+
+### 🛒 Product Page
+![Product Page](frontend/public/screenshots/products.png)
+
+### 🛒 Cart Page
+![Product Page](frontend/public/screenshots/cartpage.png)
+
+
+
 
